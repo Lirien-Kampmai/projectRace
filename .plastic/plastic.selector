@@ -1,0 +1,4 @@
+repository "ProjectLadaClub@archangell40k@cloud"
+  path "/"
+    br "/main"
+    co "/main"
